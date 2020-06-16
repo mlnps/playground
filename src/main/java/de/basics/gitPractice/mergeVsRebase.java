@@ -8,6 +8,6 @@ public class mergeVsRebase {
     // First commit on master, behind f1 and f2
     // Second commit on master, behind f1 and f2
     //Third commit on feature branch (f3)
-
+    //Fourth commit on feature branch(f4)
 
 }
