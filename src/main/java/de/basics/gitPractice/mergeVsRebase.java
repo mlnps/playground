@@ -9,5 +9,5 @@ public class mergeVsRebase {
     // Second commit on master, behind f1 and f2
 
 
-
+    // third commit on master, behind f3 and f4
 }
