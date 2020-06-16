@@ -2,6 +2,7 @@ package de.basics.gitPractice;
 
 public class mergeVsRebase {
 
-    //First commit on feature branch (f1)"
+    //First commit on feature branch (f1)
+    //Second commit on feature branch (f2)
 
 }
